@@ -36,6 +36,7 @@ Os testes unitários garantem que os métodos de leitura e escrita do data_handl
 Execute os testes com o seguinte comando: pytest -v
 
 👨‍💻 Autores
+
 Projeto desenvolvido por:
 
 Pedro Henrique Cozzati Camillo RM361284 
