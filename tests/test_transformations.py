@@ -32,7 +32,7 @@ def spark():
     spark.stop()
 
 
-def test_generate_report_basic(spark):
+def test_transformations(spark):
     transformer = Transformation(spark)
 
     pagamentos_data = [
