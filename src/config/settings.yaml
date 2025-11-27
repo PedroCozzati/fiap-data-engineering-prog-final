@@ -1,0 +1,17 @@
+# config/settings.yaml
+spark:
+  app_name: "Analise de Pagamentos Recusados"
+
+paths:
+  pagamentos: "data/input/pagamentos/"
+  pedidos: "data/input/pedidos/"
+  output: "data/output/pagamentos_recusados_2025"
+
+file_options:
+  pedidos_csv:
+    compression: "gzip"
+    header: True
+    sep: ";"
+  pagamentos_json:
+    json_multiline: False
+    
