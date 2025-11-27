@@ -91,7 +91,7 @@ class DataHandler:
             logging.info(pedidos_df.show(5, truncate=False))
             return pedidos_df
         except Exception as e:
-            logging.error(e)
+            logging.exception(e)
             raise
 
     def send_output(self, df: DataFrame, config, mode: str = "overwrite"):
@@ -99,4 +99,5 @@ class DataHandler:
             output = config["paths"]["output"]
             df.write.mode(mode).parquet(output)
         except Exception as e:
+            logging.exception(e)
             raise

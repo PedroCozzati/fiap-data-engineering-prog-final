@@ -74,3 +74,61 @@
 2025-11-27 05:09:52 - pipeline.pipeline - INFO - Processo finalizodo
 2025-11-27 05:09:52 - root - INFO - Sessão Spark finalizada.
 2025-11-27 05:09:52 - py4j.clientserver - INFO - Closing down clientserver connection
+2025-11-27 16:42:03 - root - INFO - Logging configurado.
+2025-11-27 16:42:08 - pipeline.pipeline - INFO - Inicio do processo
+2025-11-27 16:42:13 - root - INFO - None
+2025-11-27 16:42:14 - root - INFO - None
+2025-11-27 16:42:14 - root - INFO - None
+2025-11-27 16:42:14 - root - INFO - Trasnformação de dados
+2025-11-27 16:42:14 - root - INFO - Transoformação de dados ocorreu com sucesso
+2025-11-27 16:42:19 - pipeline.pipeline - INFO - None
+2025-11-27 16:42:24 - pipeline.pipeline - INFO - Processo finalizodo
+2025-11-27 16:42:24 - root - INFO - Sessão Spark finalizada.
+2025-11-27 16:42:24 - py4j.clientserver - INFO - Closing down clientserver connection
+2025-11-27 17:56:04 - root - INFO - Logging configurado.
+2025-11-27 17:56:45 - root - INFO - Logging configurado.
+2025-11-27 17:56:59 - root - INFO - Logging configurado.
+2025-11-27 17:57:13 - root - INFO - Logging configurado.
+2025-11-27 17:57:17 - pipeline.pipeline - INFO - Inicio do processo
+2025-11-27 17:57:21 - root - INFO - None
+2025-11-27 17:57:22 - root - INFO - None
+2025-11-27 17:57:22 - root - INFO - None
+2025-11-27 17:57:22 - root - INFO - Trasnformação de dados
+2025-11-27 17:57:22 - root - INFO - Transoformação de dados ocorreu com sucesso
+2025-11-27 17:57:26 - pipeline.pipeline - INFO - None
+2025-11-27 17:57:30 - pipeline.pipeline - INFO - Processo finalizodo
+2025-11-27 17:57:30 - root - INFO - Sessão Spark finalizada.
+2025-11-27 17:57:30 - py4j.clientserver - INFO - Closing down clientserver connection
+2025-11-27 17:59:25 - root - INFO - Logging configurado.
+2025-11-27 17:59:31 - pipeline.pipeline - INFO - Inicio do processo
+2025-11-27 17:59:36 - root - INFO - None
+2025-11-27 17:59:37 - root - INFO - None
+2025-11-27 17:59:37 - root - INFO - None
+2025-11-27 17:59:37 - root - INFO - Trasnformação de dados
+2025-11-27 17:59:38 - root - INFO - Transoformação de dados ocorreu com sucesso
+2025-11-27 17:59:42 - pipeline.pipeline - INFO - None
+2025-11-27 17:59:47 - pipeline.pipeline - INFO - Processo finalizodo
+2025-11-27 17:59:47 - root - INFO - Sessão Spark finalizada.
+2025-11-27 17:59:47 - py4j.clientserver - INFO - Closing down clientserver connection
+2025-11-27 18:18:51 - root - INFO - Logging configurado.
+2025-11-27 18:18:56 - pipeline.pipeline - INFO - Inicio do processo
+2025-11-27 18:19:01 - root - INFO - None
+2025-11-27 18:19:01 - root - INFO - None
+2025-11-27 18:19:01 - root - INFO - None
+2025-11-27 18:19:01 - root - INFO - Trasnformação de dados
+2025-11-27 18:19:02 - root - INFO - Transoformação de dados ocorreu com sucesso
+2025-11-27 18:19:05 - pipeline.pipeline - INFO - None
+2025-11-27 18:19:09 - pipeline.pipeline - INFO - Processo finalizodo
+2025-11-27 18:19:09 - root - INFO - Sessão Spark finalizada.
+2025-11-27 18:19:09 - py4j.clientserver - INFO - Closing down clientserver connection
+2025-11-27 18:27:52 - root - INFO - Logging configurado.
+2025-11-27 18:27:57 - pipeline.pipeline - INFO - Inicio do processo
+2025-11-27 18:28:02 - root - INFO - None
+2025-11-27 18:28:02 - root - INFO - None
+2025-11-27 18:28:02 - root - INFO - None
+2025-11-27 18:28:02 - root - INFO - Trasnformação de dados
+2025-11-27 18:28:03 - root - INFO - Transoformação de dados ocorreu com sucesso
+2025-11-27 18:28:06 - pipeline.pipeline - INFO - None
+2025-11-27 18:28:10 - pipeline.pipeline - INFO - Processo finalizodo
+2025-11-27 18:28:10 - root - INFO - Sessão Spark finalizada.
+2025-11-27 18:28:10 - py4j.clientserver - INFO - Closing down clientserver connection

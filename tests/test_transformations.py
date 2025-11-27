@@ -12,9 +12,6 @@ from pyspark.sql.types import (
 from datetime import datetime
 from src.processing.transformations import Transformation
 from pyspark.sql import Row
-from src.config.settings import carregar_config
-
-config = carregar_config()
 
 
 @pytest.fixture(scope="module")
@@ -42,7 +39,7 @@ def test_transformations(spark):
             valor_pagamento=200.0,
             status=False,
             data_processamento=datetime(2025, 9, 17),
-            avaliacao_fraude=Row(fraude=True, score=0.2),
+            avaliacao_fraude=Row(fraude=True, score=0.9),
         ),
         Row(
             id_pedido="9yrtyrt921",
@@ -50,7 +47,7 @@ def test_transformations(spark):
             valor_pagamento=2020.0,
             status=False,
             data_processamento=datetime(2025, 2, 17),
-            avaliacao_fraude=Row(fraude=False, score=0.2),
+            avaliacao_fraude=Row(fraude=False, score=0.1),
         ),
         Row(
             id_pedido="92ewrwrw21",
@@ -58,7 +55,7 @@ def test_transformations(spark):
             valor_pagamento=2100.0,
             status=False,
             data_processamento=datetime(2025, 1, 17),
-            avaliacao_fraude=Row(fraude=False, score=0.2),
+            avaliacao_fraude=Row(fraude=False, score=0.4),
         ),
     ]
     pagamentos_df = spark.createDataFrame(pagamentos_data)
