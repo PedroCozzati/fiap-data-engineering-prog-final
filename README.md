@@ -1,4 +1,5 @@
 🚀 FIAP - Data Engineering - Projeto Final 🚀
+
 Este repositório contém o projeto final da disciplina de Data Engineering da FIAP. O objetivo é construir um pipeline de ingestão, transformação e persistência de dados utilizando PySpark, aplicando boas práticas de engenharia de dados.
 
 💡 Arquitetura do Pipeline
